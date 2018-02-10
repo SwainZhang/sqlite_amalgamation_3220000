@@ -1,0 +1,14 @@
+//
+// Created by emery on 2018/2/10.
+//
+
+#ifndef SQLITE_AMALGAMATION_3220000_MIAN_H
+#define SQLITE_AMALGAMATION_3220000_MIAN_H
+
+
+class mian {
+
+};
+
+
+#endif //SQLITE_AMALGAMATION_3220000_MIAN_H
